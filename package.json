@@ -1,0 +1,23 @@
+{
+  "name": "tv_app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "hls.js": "^0.13.2",
+    "next": "^9.3.6",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "react-hls-player": "0.0.5",
+    "react-player": "^2.0.1",
+    "styled-components": "^5.1.0"
+  }
+}
