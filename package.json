@@ -6,12 +6,15 @@
   "scripts": {
     "dev": "next",
     "build": "next build",
-    "start": "next start"
+    "start": "next start",
+    "deploy": "gh-pages -d build"
   },
+  "homepage": "https://koiranos.github.io/greek-tv-app",
   "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "gh-pages": "^2.2.0",
     "hls.js": "^0.13.2",
     "next": "^9.3.6",
     "react": "^16.13.1",
