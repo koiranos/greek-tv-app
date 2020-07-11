@@ -22,7 +22,7 @@ If you want to check my application run the code below inside project folder
 npm install
 npm run dev
 ```
-or you can go to ``` http://localhost:4001/ ``` for live demo. 
+or you can go to ``` http://localhost:3000/ ``` for live demo. 
 
 
 
